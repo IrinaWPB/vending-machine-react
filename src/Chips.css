@@ -1,0 +1,11 @@
+.Chips {
+    background-color: rgb(255, 150, 97);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Chips a {
+    font-size: 50px;
+}
